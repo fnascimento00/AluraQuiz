@@ -1,28 +1,66 @@
 {
     "bg": "https://cdn.supercell.com/supercell.com/210127095741/supercell.com/files/styles/hero_image_narrow/public/hero_bg_brawlstars_.jpg?itok=yifeFssz&timestamp=1544532809?resize=1536%2C1208&ssl=1",
     "title": "Quiz Brawl Stars",
-    "description": "Teste os seus conhecimentos sobre Browl Starts e vamos ver se você é mesmo fã do jogo",
+    "description": "Teste os seus conhecimentos sobre Brawl Stars e vamos ver se você é mesmo fã do jogo",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://thumbs.gfycat.com/CheeryImpeccableGosling-small.gif",
+        "title": "Qual o nome dado a um personagem do Brawl Stars?",
+        "description": "",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Super Brawl",
+          "Brawler",
+          "Warrior",
+          "Stars"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2019/04/shelly-wiki-brawl-stars-dicas-150x150.png",
+        "title": "Qual o nome da personagem?",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Shelly",
+           "Pam",
+           "Piper",
+           "Penny"
+        ]
+      },
+      {
+        "image": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/el-primo-wiki-brawl-stars-dicas-150x150.png",
+        "title": "Qual o nome do personagem?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Piper",
+           "Shelly",
+           "El Primo",
+           "Barley"
+        ]
+      },
+      {
+        "image": "https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/piper-wiki-brawl-stars-dicas-150x150.png",
+        "title": "Qual o nome da personagem?",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "Pam",
+           "Shelly",
+           "Sandy",
+           "Piper"
+        ]
+      },
+      {
+        "image": "https://thumbs.gfycat.com/PoshDefiantGopher-max-1mb.gif",
+        "title": "Qual empresa é a desenvolvedora do game?",
+        "description": "",
+        "answer": 1,
+        "alternatives": [
+           "Mojang Studios",
+           "Supercell",
+           "Epic Games",
+           "Innersloth"
         ]
       }
     ],
